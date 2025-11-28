@@ -1,0 +1,5 @@
+{
+  "name": "CapCatalog",
+  "description": "A git-backed Capability Catalog and Audit tool for AI/automation engineering teams.",
+  "requestFramePermissions": []
+}
